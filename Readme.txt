@@ -1,3 +1,5 @@
+# Scripts for decompaction and Airy-backstripping
+
 Input file:
 	1. well list file
 	2. well data for each well
