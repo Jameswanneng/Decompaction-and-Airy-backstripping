@@ -16,9 +16,7 @@ Preparation before running the code:
 	1. prepare well data.
 	
 
-How to run the code:
+How to run the code: (These scripts should be run using Matlab)
 	1. set the folder that contains the scripts as the current working directory 
 	2. run script well_decompaction.mlx. Make sure that all the paths, both input path and output path, are set correctly.
 
-Caveats:
-	1. water correction are not considered here. This will be implemented in the future but it won't influence the results much.
